@@ -1,10 +1,10 @@
 javascript:
-
+cookie clicker
 var DELAY = 1;
 var autoClickerStyleElement = document.createElement("style");
 autoClickerStyleElement.innerHTML="*{cursor: crosshair !important;}";
 document.body.appendChild(autoClickerStyleElement);
-function addClicker(e) {
+function addClicker to toch pad
 	if(!e.isTrusted) {
 		return;
 	}
